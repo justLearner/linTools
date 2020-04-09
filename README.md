@@ -11,5 +11,6 @@ Using npm：
 Includes methods
 
 ```js
-  formatMoneyThousand：转换为带千分符的，小数位不加千分符
+  formatMoneyThousand：转换为带千分符的，小数位不加千分符,
+  arrIntersection：获取2个数组的交集,
 ```
